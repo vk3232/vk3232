@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I'm Vrushabh! 👋
 
-<!--
-**vk3232/vk3232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Student of B. Tech Electronics and telecommunication.
+
+🧠 I'm currently learning...
+
+![Vrushabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vk3232&show_icons=true&theme=github_dark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vk3232&layout=compact&theme=github_dark)](https://github.com/vk3232/github-readme-stats)
+
+## 🛠 Skills
+ML, C/C++, JAVA, ELECTRONICS
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunalavghade/)
+
+[![hackerank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kunalavghade77)
