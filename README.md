@@ -12,7 +12,7 @@ I am Student of B. Tech Electronics and telecommunication.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vk3232&layout=compact&theme=github_dark)](https://github.com/vk3232/github-readme-stats)
 
 ## 🛠 Skills
-ML, C/C++, JAVA, ELECTRONICS
+JAVA, SPRING, SPRINGBOOT, MYSQL, POSTGRESQL
 
 
 ## 🔗 Links
