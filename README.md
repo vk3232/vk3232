@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 🎓 I'm an ENTC Undergraduate at VIIT.\
 🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms.\
-✉️ You can reach out to me via email at kunal77avghade@gmail.com.
+✉️ You can reach out to me via email at vrushabhbk7219@gmail.com.
 
 ### 🛠 Languages, Frameworks and Databases
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
@@ -44,6 +44,7 @@
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunalavghade/)[![hackerank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kunalavghade77)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrushabhkhatik/)
+[![hackerank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/vrushabh_Khatik)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vk3232&label=Profile%20views&color=0e75b6&style=flat" alt="vk3232" /> </p>
 
