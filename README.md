@@ -6,6 +6,8 @@ I am Student of B. Tech Electronics and telecommunication.
 
 🧠 I'm currently learning...
 
+![Vrushabh's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
 ![Vrushabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vk3232&show_icons=true&theme=github_dark)
 
 
